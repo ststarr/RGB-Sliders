@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  RGB Sliders
 //
-//  Created by Al Hammons on 8/30/16.
+//  Created by Susan Hammons on 8/30/16.
 //  Copyright © 2016 Susan Hammons. All rights reserved.
 //
 
